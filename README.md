@@ -1,3 +1,57 @@
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=2000&pause=500&color=922104&background=000000&center=true&vCenter=true&multiline=true&width=700&height=160&lines=Hello+there!;I'm+Loqman;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+
+
+
+
+
+ I'm Loghman I'm a final year student pursuing Bachelors's in Computer Science 🎓 . I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems 🚀. Apart from that I also love to listen music 🎵 and play games🎮. I'm currently into Full stack Web Development 🕸️ and working on python 🐍. 
+
+
+ 
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/LoqmanSamani">
+  <img height="300em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LoqmanSamani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=000000&text_color=FF0000"/>
+  <img height="300em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LoqmanSamani&layout=compact&langs_count=8&theme=algolia&bg_color=000000&text_color=FF0000"/>
+</a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Hi, I'm Loghman Samani! 👋
 
 Welcome to my GitHub profile! I'm a passionate bioinformatician and computational biologist currently pursuing my master's degree in Technical Biology at the University of Stuttgart. Here, I explore the fascinating intersection of biology and technology, applying cutting-edge computational methods to unravel the mysteries of life.

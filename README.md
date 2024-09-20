@@ -1,3 +1,32 @@
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=2000&pause=500&color=922104&background=000000&center=true&vCenter=true&multiline=true&width=700&height=160&lines=Hello+there!;I'm+Loqman;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Hi, I'm Loghman Samani! 👋
 
 Welcome to my GitHub profile! I'm a passionate bioinformatician and computational biologist currently pursuing my master's degree in Technical Biology at the University of Stuttgart. Here, I explore the fascinating intersection of biology and technology, applying cutting-edge computational methods to unravel the mysteries of life.

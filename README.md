@@ -47,6 +47,41 @@
 
 
 
+<!--icons and links-->
+<p align="center">
+  <a href="https://www.linkedin.com/in/loghman-samani-8a5208199/" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+  </a>
+  <a href="https://medium.com/@samaniloqman91" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="medium" height="50" width="50" />
+  </a>
+  <a href="mailto:samaniloqman91@gmail.com">
+    <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail" />
+  </a>
+  <a style="margin-left: 10px;" target="_blank" href="https://x.com/Loqman_Samani">
+    <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" alt="X" />
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -67,9 +102,10 @@
 </p>
 
 
+<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 
-
-
+<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 
 
 

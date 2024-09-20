@@ -2,11 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=500&background=000000&center=true&vCenter=true&multiline=true&width=800&height=160&lines=Hello+There!;I'm+Loqman;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
 
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=500&background=000000&center=true&vCenter=true&multiline=true&width=800&height=160&lines=Hello+There!;I'm+Loqman;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
-</a>
-
-<p align="center" style="text-align: justify; max-width: 700px; margin: auto;">
+<p align="center" style="text-align: justify; max-width: 500px; margin: auto;">
 Hi, I'm <b>Loqman Samani</b>, a master's student in <b>Technical Biology</b> at the University of Stuttgart. I have a strong background in molecular biology, and I'm continuously growing my expertise in <b>computational biology</b> and <b>machine learning</b>.
 
 Currently, I'm working on my master's thesis in computational biology while honing my skills in <b>deep learning applications</b> for biology. I've published two open-source Python libraries, <b>biostoch</b> and <b>smartsolve</b>, and have worked on several projects like <b>deep-learning</b> and the <b>mapk-pathway</b>.

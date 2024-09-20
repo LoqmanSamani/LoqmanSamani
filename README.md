@@ -75,6 +75,21 @@
 
 
 
+<!--icons and links-->
+<p align="center">
+  <a href="https://www.linkedin.com/in/loghman-samani-8a5208199/" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+  </a>
+  <a href="https://medium.com/@samaniloqman91" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="medium" height="50" width="50" />
+  </a>
+  <a href="mailto:samaniloqman91@gmail.com" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/235573024-c41e7efb-5451-41a0-8aa6-bf88286f04a0.png" alt="gmail" height="50" width="50" />
+  </a>
+  <a href="https://x.com/Loqman_Samani" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/235573314-8d0dca8a-1a67-49e7-8b23-9cfd6d75b456.png" alt="X" height="50" width="50" />
+  </a>
+</p>
 
 
 

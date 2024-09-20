@@ -14,8 +14,8 @@
 
 <p align="center">
 <a href="https://github.com/LoqmanSamani">
-  <img height="300em" width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LoqmanSamani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=000000"/>
-  <img height="300em" width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LoqmanSamani&layout=compact&langs_count=8&theme=algolia&bg_color=000000"/>
+  <img height="500em" width="500em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LoqmanSamani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=000000"/>
+  <img height="500em" width="500em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LoqmanSamani&layout=compact&langs_count=8&theme=algolia&bg_color=000000"/>
 </a>
 </p>
 

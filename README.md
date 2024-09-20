@@ -24,7 +24,7 @@
 
 
 <!--tech stack icons-->
-[![My Skills](https://skillicons.dev/icons?i=python,r,html,mysql,matlab,tensorflow,pytorch,pycharm,vscode,anaconda,linux,mint,ubuntu,redhat,vim,git,github,md,latex&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,html,mysql,matlab,tensorflow,pytorch,pycharm,vscode,anaconda,linux,mint,ubuntu,windows,redhat,vim,git,github,md,latex&perline=10)](https://skillicons.dev)
 
 
 

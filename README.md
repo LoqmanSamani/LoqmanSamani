@@ -24,7 +24,7 @@
 
 
 <!--tech stack icons-->
-[![My Skills](https://skillicons.dev/iconsanaconda)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons,anaconda)](https://skillicons.dev)
 
 
 

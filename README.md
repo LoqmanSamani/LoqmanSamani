@@ -44,6 +44,7 @@
 
 
 
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=plastic&logo=gmail&link=samaniloqman91%40gmail.com)
 
 
 

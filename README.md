@@ -1,5 +1,6 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=500&background=000000&center=true&vCenter=true&multiline=true&width=700&height=160&lines=Hello+There!;I'm+Loqman;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=500&background=000000&center=true&vCenter=true&multiline=true&width=800&height=160&lines=Hello+There!;I'm+Loqman;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
+
 
 Hi, I'm Loqman Samani, a master's student in Technical Biology at the University of Stuttgart. I have a strong background in molecular biology, and I'm continuously growing my expertise in computational biology and machine learning.
 

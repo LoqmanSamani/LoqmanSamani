@@ -36,32 +36,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
- 
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/LoqmanSamani">
-  <img height="300em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LoqmanSamani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=000000&text_color=FF0000"/>
-  <img height="300em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LoqmanSamani&layout=compact&langs_count=8&theme=algolia&bg_color=000000&text_color=FF0000"/>
-</a>
-</p>
-
-
-
-
-
 <!--tech stack icons-->
 [![My Skills](https://skillicons.dev/icons?i=python,r,html,mysql,matlab,tensorflow,pytorch,pycharm,vscode,anaconda,linux,mint,ubuntu,windows,redhat,vim,git,github,md,latex&perline=10)](https://skillicons.dev)
 
@@ -76,16 +50,22 @@
 
 
 
-
-
-
-
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/loghman-samani-8a5208199/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://medium.com/@samaniloqman91" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="medium" height="50" width="50" /></a>
- 
+  <a href="https://www.linkedin.com/in/loghman-samani-8a5208199/" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+  </a>
+  <a href="https://medium.com/@samaniloqman91" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="medium" height="50" width="50" />
+  </a>
+  <a href="mailto:samaniloqman91@gmail.com" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/235142328-0c252d39-8422-4f60-84c1-1b93f2ee3596.png" alt="gmail" height="50" width="50" />
+  </a>
+  <a href="https://x.com/Loqman_Samani" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/235140491-51f3fa4f-55a2-455a-a5e6-0310164c3331.png" alt="X" height="50" width="50" />
+  </a>
 </p>
+
 
 
 

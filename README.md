@@ -7,7 +7,7 @@ Currently, I'm working on my master's thesis in computational biology while honi
 
 I'm also deeply interested in cognitive neuroscience and aim to pursue a research position in this field soon.
 
----
+
 
 ## 📊 GitHub Stats & Streaks
 
@@ -27,13 +27,13 @@ I'm also deeply interested in cognitive neuroscience and aim to pursue a researc
 </table>
 </p>
 
----
+
 
 ## 🛠️ My Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=python,r,html,mysql,matlab,tensorflow,pytorch,pycharm,vscode,anaconda,linux,mint,ubuntu,windows,redhat,vim,git,github,md,latex&perline=10)](https://skillicons.dev)
 
----
+
 
 ## 🔗 Connect with Me
 

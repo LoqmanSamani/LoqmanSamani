@@ -3,11 +3,12 @@
 
 
 
-Hi, I'm Loqman Samani, a master's student in Technical Biology at the University of Stuttgart. I have a strong background in molecular biology, and I'm continuously growing my expertise in computational biology and machine learning.
+👋 Hi, I’m Loqman Samani!
+I hold a Master of Science in Computational Biology and am passionate about the intersection of deep learning and structural biology. My current focus is on exploring diffusion models and physics-aware approaches to design, predict, and better understand proteins.
 
-Currently, I'm working on my master's thesis in computational biology while honing my skills in deep learning applications for biology. I've published two open-source Python libraries, biostoch and smartsolve, and have worked on several projects like deep-learning and the mapk-pathway.
+I’m actively seeking PhD and research opportunities in computational structural biology, where I can contribute to advancing methods for protein modeling while growing as a researcher.
 
-I'm also deeply interested in cognitive neuroscience and aim to pursue a research position in this field soon.
+Beyond research, I’m always excited about building things, experimenting with new ideas, and learning how AI can help us uncover the mysteries of biology. 🚀
 
 
 

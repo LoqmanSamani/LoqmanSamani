@@ -3,13 +3,13 @@
 
 
 
-👋 Hi, I’m Loqman Samani!
+I have a Master of Science in Computational Biology and am passionate about the intersection of deep learning and structural biology. 
 
-I hold a Master of Science in Computational Biology and am passionate about the intersection of deep learning and structural biology. My current focus is on exploring diffusion models and physics-aware approaches to design, predict, and better understand proteins.
+My current focus is on exploring diffusion models and physics-aware approaches to design, predict, and better understand proteins.
 
-I’m actively seeking PhD and research opportunities in computational structural biology, where I can contribute to advancing methods for protein modeling while growing as a researcher.
+I’m actively seeking PhD and research opportunities in computational structural biology, where I can contribute to advancing methods for protein modeling.
 
-Beyond research, I’m always excited about building things, experimenting with new ideas, and learning how AI can help us uncover the mysteries of biology. 🚀
+Beyond research, I’m always excited about building things, experimenting with new ideas, and learning how AI can help us uncover the mysteries of life.
 
 
 
